@@ -1,6 +1,5 @@
-# GTFO
+# Separator
 
-Those different types of files,GET THE FVCK OUT my folder！
 
 help sorting files simpler 
 example:
